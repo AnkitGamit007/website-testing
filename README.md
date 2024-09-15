@@ -1,0 +1,1 @@
+This project is a simple project in which the website testing is done using tools like HTML, CSS and Node JS. This project includes some simple frontend and Backend to store name and message on the local server. When you access it it displays your name and the message on the screen and saves both on the server.
